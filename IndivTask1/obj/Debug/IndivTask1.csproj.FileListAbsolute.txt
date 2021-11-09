@@ -1,0 +1,10 @@
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\bin\Debug\IndivTask1.exe.config
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\bin\Debug\IndivTask1.exe
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\bin\Debug\IndivTask1.pdb
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\obj\Debug\IndivTask1.csproj.AssemblyReference.cache
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\obj\Debug\IndivTask1.Properties.Resources.resources
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\obj\Debug\IndivTask1.csproj.GenerateResource.cache
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\obj\Debug\IndivTask1.csproj.CoreCompileInputs.cache
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\obj\Debug\IndivTask1.exe
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\obj\Debug\IndivTask1.pdb
+D:\MMCS\Computer Graphics\IndivTask1\IndivTask1\obj\Debug\IndivTask1.Form1.resources
